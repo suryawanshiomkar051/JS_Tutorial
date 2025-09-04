@@ -21,3 +21,6 @@ console.log("My Array include 3",myArray.includes(3))
 console.log("Index of  7 is :",myArray.indexOf(7))
 
 
+
+
+
