@@ -20,6 +20,8 @@ const all_new_heroes = [...marvel_heroes,...dc_heroes]
 console.log(all_new_heroes);
 console.log("-----------------------------------");
 
+
+
 let name = "Amit"
 let age = 27
 let location = "Pune"
