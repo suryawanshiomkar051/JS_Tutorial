@@ -87,3 +87,13 @@ returnPrice({
     name:"Rajkumer",
     price:5000
 })
+
+
+const myNArray = [1,2,3,4,5]
+
+function returnSecondValue(getArray)
+{
+    return getArray[2];
+}
+console.log(returnSecondValue(myNArray));
+console.log(returnSecondValue([23,5,44,2]));
