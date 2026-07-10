@@ -14,7 +14,15 @@ let MyArray = ["John", "Doe", "Jane", "Smith"];
 while (MyArray.length > 0) {
   console.log(`The first element is ${MyArray[0]}`);
   MyArray.shift();   // 
-}
+} 
 
 console.log(`The array is now empty: ${MyArray}`);
+
+
+let score = 90
+
+do {
+        console.log( `Score is ${ score}`);
+        score++
+} while (score < 100);
 
