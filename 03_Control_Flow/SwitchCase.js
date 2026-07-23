@@ -9,10 +9,9 @@
 //     console.log("You pressed something else");
 // }
 
+const month = 7;
 
-const month = 7
-
-switch(month) {
+switch (month) {
   case 1:
     console.log("January");
     break;
@@ -40,14 +39,13 @@ switch(month) {
   case 9:
     console.log("September");
     break;
-    default:
+  default:
     console.log("Invalid month");
-} 
+}
 
+const number = "Two";
 
-const number = "Two"
-
-switch(number) {
+switch (number) {
   case "One":
     console.log("You pressed One");
     break;
@@ -60,36 +58,3 @@ switch(number) {
   default:
     console.log("You pressed something else");
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
